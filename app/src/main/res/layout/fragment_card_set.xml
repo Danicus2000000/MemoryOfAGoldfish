@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".CardSetFragment">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:onClick="selectCardSet"
+            android:id="@+id/CardSetContainer">
+            <ImageView
+                android:id="@+id/CardSetPreview"
+                android:layout_width="70dp"
+                android:layout_height="78dp"
+                android:layout_margin="20dp"
+                android:src="@drawable/tileback_g"
+                tools:srcCompat="@drawable/tileback_g"
+                android:background="#ADD8E6"/>
+
+            <TextView
+                android:id="@+id/CardSetTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/placeholderText" />
+            <TextView
+                android:id="@+id/CardSetHighScoreContainer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/placeholderText">
+            </TextView>
+        </LinearLayout>
+</FrameLayout>

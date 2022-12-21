@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Memory Of A GoldFish</string>
+    <string name="playNewGameButtonText">Play new game</string>
+    <string name="continueOldGame">Continue old game</string>
+    <string name="loadResourcesButton">Load Images from URL</string>
+    <string name="JSONTextInput">Please enter a URL to download from</string>
+    <string name="downloadJSONButton">Download</string>
+    <string name="currentSetsButton">Read currently downloaded cards</string>
+    <string name="downloadDefaultData">Download Default Dataset</string>
+    <string name="runExampleButton">Run 2 image test</string>
+    <string name="placeholderText">placeholderText</string>
+    <string name="selectCardSetPrompt">Please select a card set:</string>
+</resources>

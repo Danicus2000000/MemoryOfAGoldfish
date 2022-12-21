@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Souvenir d\'un poisson rouge</string>
+    <string name="playNewGameButtonText">Jouer à un nouveau jeu</string>
+    <string name="continueOldGame">Continuer le vieux jeu</string>
+    <string name="loadResourcesButton">Charger des images à partir de l\'url</string>
+    <string name="downloadJSONButton">Télécharger</string>
+    <string name="JSONTextInput">Veuillez saisir une URL à partir de laquelle télécharger</string>
+    <string name="currentSetsButton">Lire les cartes actuellement téléchargées</string>
+    <string name="downloadDefaultData">Télécharger l\'ensemble de données par défaut</string>
+    <string name="runExampleButton">Exécuter 2 tests d\'image</string>
+    <string name="placeholderText">texteD\'espaceRéservé</string>
+    <string name="selectCardSetPrompt">Veuillez sélectionner un jeu de cartes:</string>
+</resources>

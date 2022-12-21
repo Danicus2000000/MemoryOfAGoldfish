@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/.Mobile Development/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout-land/activity_list_downloaded.xml" value="0.1" />
+        <entry key="..\:/.Mobile Development/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/activity_game_window.xml" value="0.36666666666666664" />
+        <entry key="..\:/.Mobile Development/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/activity_get_image_from_urldisplay.xml" value="0.358695652173913" />
+        <entry key="..\:/.Mobile Development/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/activity_get_images_from_url.xml" value="0.18802083333333333" />
+        <entry key="..\:/.Mobile Development/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/.Mobile Development/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/activity_set_list.xml" value="0.18802083333333333" />
+        <entry key="..\:/.Mobile Development/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/content_get_images_from_url.xml" value="0.18802083333333333" />
+        <entry key="..\:/.Mobile Development/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/fragment_card_set.xml" value="0.1408308004052685" />
+        <entry key="..\:/.Mobile Development/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/fragment_first.xml" value="0.18802083333333333" />
+        <entry key="..\:/.Mobile Development/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/fragment_image.xml" value="0.1408308004052685" />
+        <entry key="..\:/Users/dan-a/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2615" />
+        <entry key="..\:/Users/dan-a/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2615" />
+        <entry key="..\:/Users/dan-a/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout-land/activity_game_window.xml" value="0.15696649029982362" />
+        <entry key="..\:/Users/dan-a/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout-land/activity_get_image_from_urldisplay.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/dan-a/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout-land/activity_list_downloaded.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/dan-a/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/activity_game_window.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/dan-a/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/activity_get_image_from_urldisplay.xml" value="0.2921195652173913" />
+        <entry key="..\:/Users/dan-a/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/activity_list_downloaded.xml" value="0.2921195652173913" />
+        <entry key="..\:/Users/dan-a/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/dan-a/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/activity_set_list.xml" value="0.2921195652173913" />
+        <entry key="..\:/Users/dan-a/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/fragment_CardSet.xml" value="0.2921195652173913" />
+        <entry key="..\:/Users/dan-a/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/fragment_card_set.xml" value="0.5" />
+        <entry key="..\:/Users/dan-a/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/fragment_image.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/dan-a/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/fragment_tile.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/dbulm/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout-land/activity_game_window.xml" value="0.30599647266313934" />
+        <entry key="..\:/Users/dbulm/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout-land/activity_get_image_from_urldisplay.xml" value="0.30599647266313934" />
+        <entry key="..\:/Users/dbulm/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout-land/activity_list_downloaded.xml" value="0.30599647266313934" />
+        <entry key="..\:/Users/dbulm/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout-land/activity_main.xml" value="0.30599647266313934" />
+        <entry key="..\:/Users/dbulm/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/activity_game_window.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/dbulm/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/activity_get_image_from_urldisplay.xml" value="0.3625" />
+        <entry key="..\:/Users/dbulm/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/activity_list_downloaded.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/dbulm/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/activity_main.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/dbulm/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/fragment_card_set.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/dbulm/Downloads/600096-2223-memory-of-a-goldfish-Danicus2000000/app/src/main/res/layout/fragment_image.xml" value="0.28306159420289856" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

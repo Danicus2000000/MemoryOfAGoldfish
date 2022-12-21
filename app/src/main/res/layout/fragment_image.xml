@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".imageFragment">
+    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/CardFront"
+        android:layout_width="70dp"
+        android:layout_height="78dp"
+        android:src="@drawable/goldfish1"
+        tools:srcCompat="@drawable/goldfish1"
+        android:contentDescription="A Card Front"
+        android:scaleType="fitXY"
+        android:background="#ADD8E6"/>
+    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/CardBack"
+        android:layout_width="70dp"
+        android:layout_height="78dp"
+        android:src="@drawable/tileback_g"
+        tools:srcCompat="@drawable/tileback_g"
+        android:onClick="imageClicked"
+        android:contentDescription="A Card Back"
+        android:background="#ADD8E6"/>
+</FrameLayout>
